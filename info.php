@@ -1,3 +1,1 @@
-<?php
-phpinfo();
-?>
+Welcome To my world
